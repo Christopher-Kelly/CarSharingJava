@@ -1,0 +1,54 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/production/classes/
+/Car Sharing/task/out/test/classes/
+/Topics/Anonymous classes/Capture variables/out/
+/Topics/Anonymous classes/Capture variables/out/production/classes/
+/Topics/Anonymous classes/Single method/out/
+/Topics/Anonymous classes/Single method/out/production/classes/
+/Topics/Anonymous classes/Theory/out/
+/Topics/Anonymous classes/Theory/out/production/classes/
+/Topics/Comparator/Sort users/out/
+/Topics/Comparator/Sort users/out/production/classes/
+/Topics/Comparator/Theory/out/
+/Topics/Comparator/Theory/out/production/classes/
+/Topics/Default methods/Diamond problem/out/
+/Topics/Default methods/Diamond problem/out/production/classes/
+/Topics/Default methods/Implement a default method/out/
+/Topics/Default methods/Implement a default method/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Default methods/Theory/out/
+/Topics/Default methods/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Correct the program/out/
+/Topics/Introduction to generic programming/Correct the program/out/production/classes/
+/Topics/Introduction to generic programming/Generic parameter values/out/
+/Topics/Introduction to generic programming/Generic parameter values/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Type arguments - 2/out/
+/Topics/Introduction to generic programming/Type arguments - 2/out/production/classes/
+/Topics/Lambda expressions/Creating a closure/out/
+/Topics/Lambda expressions/Creating a closure/out/production/classes/
+/Topics/Lambda expressions/Expression closure/out/
+/Topics/Lambda expressions/Expression closure/out/production/classes/
+/Topics/Lambda expressions/Parts of code/out/
+/Topics/Lambda expressions/Parts of code/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/The Collections Framework overview/Squaring numbers/out/
+/Topics/The Collections Framework overview/Squaring numbers/out/production/classes/
+/Topics/The Collections Framework overview/Supported collections/out/
+/Topics/The Collections Framework overview/Supported collections/out/production/classes/
+/Topics/The Collections Framework overview/Theory/out/
+/Topics/The Collections Framework overview/Theory/out/production/classes/
+/Topics/The List interface/Mutable lists/out/
+/Topics/The List interface/Mutable lists/out/production/classes/
+/Topics/The List interface/Similarities between lists and arrays/out/
+/Topics/The List interface/Similarities between lists and arrays/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
